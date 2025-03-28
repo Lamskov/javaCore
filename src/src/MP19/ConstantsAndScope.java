@@ -4,7 +4,7 @@ public class ConstantsAndScope {
     static final double PI = 3.14159;
 
     public static void main(String[] args) {
-        // Объявление локальных переменных и констант
+        //  Объявление локальных переменных и констант
         final int LOCAL_CONSTANT = 100;
         int localVariable = 10;
 
